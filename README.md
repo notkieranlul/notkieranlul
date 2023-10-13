@@ -2,6 +2,27 @@
 
 <p align="center"><img src="https://github.com/notkieranlul/notkieranlul/assets/85199718/920f6d04-b4b1-48fb-bdb1-9894a8ff8852"></p>
 
-<p align="center">22</p>
-<p align="center">software systems engineer </p>
-<p align="center">based in Scotland </p>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
+
+<div id="badges" align="center">
+  
+  <a href="https://www.linkedin.com/in/kierandwallace/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/kieranlul">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=notkieranlul&style=flat-square&color=blue" alt=""></p>
+
+<h2 align="center">current stats</h2>
+<p align="center"><href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=notkieranlul&theme=transparent&hide_border=true" alt="GitHub Streak" /></p>
