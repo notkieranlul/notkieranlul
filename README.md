@@ -23,6 +23,5 @@
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=notkieranlul&style=flat-square&color=blue" alt=""></p>
-
 <h2 align="center">current stats</h2>
 <p align="center"><href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=notkieranlul&theme=transparent&hide_border=true" alt="GitHub Streak" /></p>
