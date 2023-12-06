@@ -1,6 +1,6 @@
 <h1 align="center">hello, i'm kieran</h1>
 
-<p align="center"><img src="https://media.licdn.com/dms/image/D4E22AQELjvdjvtFaBg/feedshare-shrink_800/0/1701246687909?e=1704931200&v=beta&t=igM0caE8B91WA7JPH_WTgjAUVxds44zu9LZ7fGrwZWM" width="350" height="350"></p>
+<p align="center"><img src="https://testportal.app/Designer.png" width="350" height="350"></p>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
